@@ -4,7 +4,7 @@ This is a Python script, which I wrote in Jupyter, that checks for the presence 
 ## 1. Define the Function:
 
 check_for_at_symbol(email): This function checks if an email is not empty and does not contain the '@' symbol. If the '@' symbol is missing, it returns 1 to flag the entry; otherwise, it returns 0.
-Load the Excel File:
+
 
 ## 2. Load the CSV File:
 The script loads the csv file into a Pandas DataFrame. The file is assumed to be named Emails.csv.
