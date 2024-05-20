@@ -7,7 +7,7 @@ check_for_at_symbol(email): This function checks if an email is not empty and do
 
 
 ## 2. Load the CSV File:
-The script loads the csv file into a Pandas DataFrame. The file is assumed to be named Emails.csv.
+The script loads the CSV file into a Pandas DataFrame. The file is assumed to be named Emails.csv.
 
 ## 3. Apply the Function:
 
