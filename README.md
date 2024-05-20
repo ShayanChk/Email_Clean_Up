@@ -1,5 +1,5 @@
 # Email Validation Script
-This is a Python script, which I wrote in Jupyter for cleaning up the clients's emails. The CSV file has been extracted from the database, which contains the client's email. It checks for the presence of the '@' symbol in email addresses column from a CSV file and flags entries that are missing this symbol. It performs the following steps:
+This is a Python script, which I wrote in Jupyter for cleaning up the clients' emails. The CSV file has been extracted from the database, which contains the client's email. It checks for the presence of the '@' symbol in email addresses column from a CSV file and flags entries that are missing this symbol. It performs the following steps:
 
 ## 1. Define the Function:
 
